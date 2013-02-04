@@ -1,0 +1,12 @@
+{
+  "name": "radix-starter",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": null,
+    "requirejs": null,
+    "backbone-amd": null,
+    "underscore-amd": null,
+    "bootstrap": null,
+    "require-jade" : null
+  }
+}
